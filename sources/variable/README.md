@@ -8,7 +8,7 @@ For example, a variable written in camel-case will automatically have mutable ch
 
 ### Example
 
-```
+```java
 the userNickname = "USER"
 userNickname = "USER1"
 
