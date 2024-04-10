@@ -30,7 +30,7 @@ convention | characteristic
 ---|---
 camelCase | Variable
 PascalCase | Constant
-snake_case | Varialbe
+snake_case | Variable
 Screaming_Snake_Case | Constant
 UPPERCASE | Constant
 kebab-case | Variable
