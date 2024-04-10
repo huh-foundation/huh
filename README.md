@@ -1,2 +1,13 @@
 # huh
-perfect programming language. Contribute to Huh development by creating an account on GitHub
+
+개발자들 모두에게 익숙한 언어 huh 입니다. 
+
+huh는 아주 심플하고 읽기 쉬운 언어입니다.
+
+자동 타입 추론 기능에서 더욱 나아가 자동 컨벤션 추론 기능을 통해서 더욱 읽기 쉽고 작성하기 쉬운 문법들을 제공하고 있습니다.
+
+다양한 방면에서 사용 가능하도록 여러 프로그래밍 페러다임들을 제공하고 있습니다.
+
+### Contributors
+
+@esperar @onee-only
