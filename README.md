@@ -1,12 +1,12 @@
 # huh
 
-개발자들 모두에게 익숙한 언어 huh 입니다. 
+The language huh is familiar to all developers.
 
-huh는 아주 심플하고 읽기 쉬운 언어입니다.
+huh is a very simple and easy-to-read language.
 
-자동 타입 추론 기능에서 더욱 나아가 자동 컨벤션 추론 기능을 통해서 더욱 읽기 쉽고 작성하기 쉬운 문법들을 제공하고 있습니다.
+It provides even easier-to-read and write grammar through automatic convention inference, going beyond automatic type inference.
 
-다양한 방면에서 사용 가능하도록 여러 프로그래밍 페러다임들을 제공하고 있습니다.
+It provides various programming paradigms to be used in various ways.
 
 ### Contributors
 
