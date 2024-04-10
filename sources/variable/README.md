@@ -14,4 +14,24 @@ userNickname = "USER1"
 
 the UserNickname = "USER"
 // UserNickname = "USER1" error: Variables written in Pascal case cannot be reassigned.
+
+the user_name = "USER"
+user_name = "USER1"
 ```
+
+<br>
+
+## Convention inference
+
+
+Convention inference is designed as follows, and certain characteristics are determined when variables are created using the following convention.
+
+convention | characteristic
+---|---
+camelCase | Variable
+PascalCase | Constant
+snake_case | Varialbe
+Screaming_Snake_Case | Constant
+UPPERCASE | Constant
+kebab-case | Variable
+
